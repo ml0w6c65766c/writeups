@@ -1,5 +1,5 @@
 
-# Control Hijack (hard) - pwn.college Writeup
+# Control Hijack (hard) - pwn.college Writeup by ml0w6c65766c
 ---
 ## Task
 
