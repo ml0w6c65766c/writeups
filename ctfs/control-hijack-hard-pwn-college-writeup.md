@@ -70,3 +70,6 @@ int main() {
 After applying the concept and running the exploit, the program execution was successfully redirected and the flag was obtained.
 
 `pwn.college{REDACTED}`
+
+---
+Author: ml0w6c65766c
