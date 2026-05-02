@@ -229,3 +229,6 @@ strcmp(safe_var, "bico") != 0
 As a result, the program detects that `safe_var` has been modified and triggers the win condition, which prints the flag.
 
 `picoCTF{FLAG}`
+
+---
+Author: ml0w6c65766c
